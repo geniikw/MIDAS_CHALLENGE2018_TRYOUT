@@ -1,0 +1,3 @@
+# MIDAS_CHALLENGE2018_TRYOUT
+
+일단 코드만 올림
